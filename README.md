@@ -6,3 +6,4 @@
 - add settings in UI
 - add menu
 - add restart options
+- create releases branch
